@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![snake](https://raw.githubusercontent.com/nikhil-dex/nikhil-dex/output/snake.svg)
 <!--
 **nikhil-dex/nikhil-dex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
