@@ -14,11 +14,11 @@
   >
 </picture>
 
-`→ repos ` [AirDeck](https://github.com/nikhil-dex/airdeck) · [ProtoFolio](https://github.com/nikhil-dex/protofolio) · [PPT-GenX](https://github.com/nikhil-dex/pptgen) · [ApnaNotes](https://github.com/nikhil-dex/apnanotes)<br>
+`→ repos ` [AirDeck](https://github.com/nikhil-dex/airdeckV1) · [ProtoFolio](https://github.com/nikhil-dex/protofolio) · [PPT-GenX](https://github.com/nikhil-dex/pptgen) · [ApnaNotes](https://github.com/nikhil-dex/apnanotes)<br>
 
 `→ stack ` JavaScript · TypeScript · React · Next.js · Node.js · MongoDB · Python · PostgreSQL · Tailwind CSS · AWS · AI/ML<br>
 
-`→ reach ` [portfolio](https://portfolio1.nikhil-dex.in) · [linkedin](https://linkedin.com/in/YOUR_USERNAME) · [github](https://github.com/nikhil-dex) · [email](mailto:YOUR_EMAIL)<br>
+`→ reach ` [portfolio](https://nikhil-dex.in) · [linkedin](https://linkedin.com/in/YOUR_USERNAME) · [github](https://github.com/nikhil-dex) · [email](mailto:YOUR_EMAIL)<br>
 
 `→ currently ` Building AI products, solving LeetCode, participating in hackathons, and exploring Machine Learning.<br>
 
