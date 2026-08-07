@@ -1,17 +1,13 @@
 ## Hi there 👋
 
-![snake](https://raw.githubusercontent.com/nikhil-dex/nikhil-dex/output/snake.svg)
+
 
 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
-  <img
-    src="assets/profile-dark.svg"
-    width="100%"
-    alt="Nikhil — MERN Stack Developer & B.Tech CSE student at MSIT Delhi. Building AirDeck, ProtoFolio, PPT-GenX, and ApnaNotes. Stack: JavaScript, TypeScript, React, Next.js, Node.js, MongoDB, Python, PostgreSQL, Tailwind CSS, AWS, and AI."
-  >
+ 
 </picture>
 
 `→ repos ` [AirDeck](https://github.com/nikhil-dex/airdeckV1) · [ProtoFolio](https://github.com/nikhil-dex/protofolio) · [PPT-GenX](https://github.com/nikhil-dex/pptgen) · [ApnaNotes](https://github.com/nikhil-dex/apnanotes)<br>
