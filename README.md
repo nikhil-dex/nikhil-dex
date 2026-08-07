@@ -18,7 +18,7 @@
 
 `→ currently ` Building AI products, solving LeetCode, participating in hackathons, and exploring Machine Learning.<br>
 
-`→ wall ` [leave a message](https://github.com/nikhil-dex/nikhil-dex/issues/new?title=wall%7Cyour+message+here&body=Replace+the+title+after+wall%7C+with+your+message.) · messages appear automatically via GitHub Actions.
+`→ wall ` [leave a message](https://github.com/nikhil-dex/nikhil-dex/issues/new?title=wall%7Cyour+message+here&body=Replace+the+title+after+wall%7C+with+your+message.) · 
 
 <!--WALL:START-->
 <!--WALL:END-->
