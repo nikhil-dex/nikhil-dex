@@ -1,5 +1,9 @@
 # Hi, I'm Nikhil 👋
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raj-rathod/raj-rathod/main/coding.gif" alt="Coding animation" width="500">
+</p>
+
 ### Full-Stack Developer · AI/ML Explorer · CSE Student
 
 I build web applications and AI-powered products, while steadily moving deeper into **Data Science, Machine Learning, and intelligent developer tools**.
@@ -61,4 +65,4 @@ I'm working toward becoming a strong **AI / Data professional** with solid softw
 
 ---
 
-<p align="center"><i>Keep building. Keep learning. Keep shipping. 🚀</i></p
+<p align="center"><i>Keep building. Keep learning. Keep shipping. 🚀</i></p>
