@@ -1,7 +1,7 @@
 # Hi, I'm Nikhil 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raj-rathod/raj-rathod/main/coding.gif" alt="Coding animation" width="500">
+  <img src="https://raw.githubusercontent.com/nikhil-dex/nikhil-dex/main/assets/anime-dev-banner.svg" alt="Animated anime developer banner" width="900">
 </p>
 
 ### Full-Stack Developer · AI/ML Explorer · CSE Student
