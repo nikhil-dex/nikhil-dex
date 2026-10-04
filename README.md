@@ -1,44 +1,64 @@
-## Hi there 👋
+# Hi, I'm Nikhil 👋
 
+### Full-Stack Developer · AI/ML Explorer · CSE Student
 
+I build web applications and AI-powered products, while steadily moving deeper into **Data Science, Machine Learning, and intelligent developer tools**.
 
+> Building → learning → shipping → repeating.
 
+## 🚀 What I'm working on
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
- 
-</picture>
+- 🤖 **Re:Anime** — an AI-assisted 2D animation/content production engine
+- 🧠 **AI & Data Science** — machine learning, Python, scikit-learn and practical projects
+- 💻 **DSA in Java** — algorithms, problem solving and interview preparation
+- 📊 **Data Analytics** — SQL, Excel and Power BI
+- 🌐 **Full-Stack Development** — React, Next.js, Node.js and MongoDB
 
-`→ repos ` [AirDeck](https://github.com/nikhil-dex/airdeckV1) · [ProtoFolio](https://github.com/nikhil-dex/protofolio) · [PPT-GenX](https://github.com/nikhil-dex/pptgen) · [ApnaNotes](https://github.com/nikhil-dex/apnanotes)<br>
+## 🛠️ Tech Stack
 
-`→ stack ` JavaScript · TypeScript · React · Next.js · Node.js · MongoDB · Python · PostgreSQL · Tailwind CSS · AWS · AI/ML<br>
+**Languages**
+JavaScript · TypeScript · Java · Python · SQL
 
-`→ reach ` [portfolio](https://nikhil-dex.in) · [linkedin](https://linkedin.com/in/YOUR_USERNAME) · [github](https://github.com/nikhil-dex) · [email](mailto:YOUR_EMAIL)<br>
+**Frontend**
+React · Next.js · HTML · CSS · Tailwind CSS · Three.js
 
-`→ currently ` Building AI products, solving LeetCode, participating in hackathons, and exploring Machine Learning.<br>
+**Backend & Database**
+Node.js · Express · MongoDB · PostgreSQL
 
-`→ wall ` [leave a message](https://github.com/nikhil-dex/nikhil-dex/issues/new?title=wall%7Cyour+message+here&body=Replace+the+title+after+wall%7C+with+your+message.) · 
+**AI / Data**
+NumPy · Matplotlib · scikit-learn · Gemini API · Power BI · Excel
 
-<!--WALL:START-->
-<!--WALL:END-->
+**Cloud & Tools**
+Git · GitHub · AWS · Vercel · Render
 
+## 🌟 Selected Projects
 
+| Project | Description |
+|---|---|
+| [FarmSphere](https://github.com/nikhil-dex/FarmSphere) | Hackathon project built with MERN, Three.js, MongoDB and AWS |
+| [Retail Sales Analytics](https://github.com/nikhil-dex/Retail-Sales-Excel-Analytics) | Excel-based data analytics project |
+| [LeetCode Solutions](https://github.com/nikhil-dex/leetcode-solutions) | DSA and problem-solving practice |
+| [WebCMD](https://github.com/nikhil-dex/webcmd) | Web development project |
 
+## 📈 Current Learning
 
-<!--
-**nikhil-dex/nikhil-dex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Data Structures & Algorithms
+- Machine Learning & Data Science
+- SQL for Data Analytics
+- Excel & Power BI
+- Next.js / MERN
+- AI application development
 
-Here are some ideas to get you started:
+## 🎯 Career Direction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm working toward becoming a strong **AI / Data professional** with solid software engineering fundamentals, with a long-term interest in **Medical AI**.
 
+## 📫 Connect
 
+- 🌐 [Portfolio](https://nikhil-dex.in)
+- 💻 [GitHub](https://github.com/nikhil-dex)
+- 🔗 [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
+
+---
+
+<p align="center"><i>Keep building. Keep learning. Keep shipping. 🚀</i></p
