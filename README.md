@@ -4,9 +4,9 @@
   <img src="https://raw.githubusercontent.com/nikhil-dex/nikhil-dex/main/assets/anime-dev-banner.svg" alt="Animated anime developer banner" width="900">
 </p>
 
-### Full-Stack Developer · AI/ML Explorer · CSE Student
+### Full-Stack Developer · AI Product Builder · CSE Student
 
-I build web applications and AI-powered products, while steadily moving deeper into **Data Science, Machine Learning, and intelligent developer tools**.
+I build **AI-powered products and full-stack systems**, while developing deeper expertise in **Data Science, Machine Learning, and developer tools**.
 
 > Building → learning → shipping → repeating.
 
@@ -63,7 +63,7 @@ I'm working toward becoming a strong **AI / Data professional** with solid softw
 
 - 🌐 [Portfolio](https://nikhil-dex.in)
 - 💻 [GitHub](https://github.com/nikhil-dex)
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
+- 🔗 [LinkedIn](https://linkedin.com/in/nikhil-b203a2242)
 
 ---
 
