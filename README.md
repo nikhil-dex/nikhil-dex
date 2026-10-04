@@ -39,7 +39,7 @@ Git · GitHub · AWS · Vercel · Render
 
 | Project | Description |
 |---|---|
-| [FarmSphere](https://github.com/nikhil-dex/FarmSphere) | Hackathon project built with MERN, Three.js, MongoDB and AWS |
+| [AIRDeck](https://airdeckv2.vercel.app) | AI-native presentation engine that turns natural-language ideas into interactive HTML presentations using structured generation, themes and reusable components |\n| [FarmSphere](https://github.com/nikhil-dex/FarmSphere) | Hackathon project built with MERN, Three.js, MongoDB and AWS |
 | [Retail Sales Analytics](https://github.com/nikhil-dex/Retail-Sales-Excel-Analytics) | Excel-based data analytics project |
 | [LeetCode Solutions](https://github.com/nikhil-dex/leetcode-solutions) | DSA and problem-solving practice |
 | [WebCMD](https://github.com/nikhil-dex/webcmd) | Web development project |
