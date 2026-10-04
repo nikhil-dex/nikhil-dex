@@ -13,6 +13,7 @@ I build web applications and AI-powered products, while steadily moving deeper i
 ## 🚀 What I'm working on
 
 - 🤖 **Re:Anime** — an AI-assisted 2D animation/content production engine
+- 🎬 **AIRDeck** — an AI-native presentation engine that turns natural-language ideas into interactive HTML presentations
 - 🧠 **AI & Data Science** — machine learning, Python, scikit-learn and practical projects
 - 💻 **DSA in Java** — algorithms, problem solving and interview preparation
 - 📊 **Data Analytics** — SQL, Excel and Power BI
@@ -39,7 +40,8 @@ Git · GitHub · AWS · Vercel · Render
 
 | Project | Description |
 |---|---|
-| [AIRDeck](https://airdeckv2.vercel.app) | AI-native presentation engine that turns natural-language ideas into interactive HTML presentations using structured generation, themes and reusable components |\n| [FarmSphere](https://github.com/nikhil-dex/FarmSphere) | Hackathon project built with MERN, Three.js, MongoDB and AWS |
+| [AIRDeck](https://airdeckv2.vercel.app) | AI-native presentation engine that turns natural-language ideas into interactive HTML presentations using structured generation, themes and reusable components |
+| [FarmSphere](https://github.com/nikhil-dex/FarmSphere) | Hackathon project built with MERN, Three.js, MongoDB and AWS |
 | [Retail Sales Analytics](https://github.com/nikhil-dex/Retail-Sales-Excel-Analytics) | Excel-based data analytics project |
 | [LeetCode Solutions](https://github.com/nikhil-dex/leetcode-solutions) | DSA and problem-solving practice |
 | [WebCMD](https://github.com/nikhil-dex/webcmd) | Web development project |
