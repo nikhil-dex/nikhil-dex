@@ -1,7 +1,7 @@
 # Hi, I'm Nikhil 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nikhil-dex/nikhil-dex/main/assets/anime-dev-banner.svg" alt="Animated anime developer banner" width="900">
+  <img src="https://raw.githubusercontent.com/nikhil-dex/nikhil-dex/main/assets/anime-dev-banner.svg" alt="Animated developer banner" width="900">
 </p>
 
 ### Full-Stack Developer · AI Product Builder · CSE Student
@@ -21,19 +21,19 @@ I build **AI-powered products and full-stack systems**, while developing deeper 
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages**  
 JavaScript · TypeScript · Java · Python · SQL
 
-**Frontend**
+**Frontend**  
 React · Next.js · HTML · CSS · Tailwind CSS · Three.js
 
-**Backend & Database**
+**Backend & Database**  
 Node.js · Express · MongoDB · PostgreSQL
 
-**AI / Data**
+**AI / Data**  
 NumPy · Matplotlib · scikit-learn · Gemini API · Power BI · Excel
 
-**Cloud & Tools**
+**Cloud & Tools**  
 Git · GitHub · AWS · Vercel · Render
 
 ## 🌟 Selected Projects
@@ -41,14 +41,13 @@ Git · GitHub · AWS · Vercel · Render
 | Project | Description |
 |---|---|
 | [AIRDeck](https://airdeckv2.vercel.app) | AI-native presentation engine that turns natural-language ideas into interactive HTML presentations using structured generation, themes and reusable components |
-| [FarmSphere](https://github.com/nikhil-dex/FarmSphere) | Hackathon project built with MERN, Three.js, MongoDB and AWS |
-| [Retail Sales Analytics](https://github.com/nikhil-dex/Retail-Sales-Excel-Analytics) | Excel-based data analytics project |
-| [LeetCode Solutions](https://github.com/nikhil-dex/leetcode-solutions) | DSA and problem-solving practice |
-| [WebCMD](https://github.com/nikhil-dex/webcmd) | Web development project |
+| [Re:Anime](https://github.com/nikhil-dex) | AI-assisted 2D animation/content production engine for creating short-form chibi animation through structured scenes, reusable assets and automated rendering |
+| [Retail Sales Analytics](https://github.com/nikhil-dex/Retail-Sales-Excel-Analytics) | Data analytics project focused on exploring retail sales data with Excel and visualization-driven analysis |
 
-## 📈 Current Learning
+## 🧠 Practice & Learning
 
-- Data Structures & Algorithms
+- Data Structures & Algorithms in Java
+- LeetCode problem-solving
 - Machine Learning & Data Science
 - SQL for Data Analytics
 - Excel & Power BI
