@@ -41,7 +41,7 @@ Git · GitHub · AWS · Vercel · Render
 | Project | Description |
 |---|---|
 | [AIRDeck](https://airdeckv2.vercel.app) | AI-native presentation engine that turns natural-language ideas into interactive HTML presentations using structured generation, themes and reusable components |
-| [Re:Anime](https://github.com/nikhil-dex) | AI-assisted 2D animation/content production engine for creating short-form chibi animation through structured scenes, reusable assets and automated rendering |
+| [Re:Anime](https://github.com/nikhil-dex/reanime) | AI-assisted 2D animation/content production engine for creating short-form chibi animation through structured scenes, reusable assets and automated rendering |
 | [Retail Sales Analytics](https://github.com/nikhil-dex/Retail-Sales-Excel-Analytics) | Data analytics project focused on exploring retail sales data with Excel and visualization-driven analysis |
 
 ## 🧠 Practice & Learning
