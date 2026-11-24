@@ -12,10 +12,9 @@ I build **AI-powered products and full-stack systems**, while developing deeper 
 
 ## 🚀 What I'm working on
 
-- 🤖 **Re:Anime** — an AI-assisted 2D animation/content production engine
 - 🎬 **AIRDeck** — an AI-native presentation engine that turns natural-language ideas into interactive HTML presentations
 - 🧠 **AI & Data Science** — machine learning, Python, scikit-learn and practical projects
-- 💻 **DSA in Java** — algorithms, problem solving and interview preparation
+- 💻 **DSA in Java** — algorithms, problem solving
 - 📊 **Data Analytics** — SQL, Excel and Power BI
 - 🌐 **Full-Stack Development** — React, Next.js, Node.js and MongoDB
 
@@ -41,7 +40,6 @@ Git · GitHub · AWS · Vercel · Render
 | Project | Description |
 |---|---|
 | [AIRDeck](https://airdeckv2.vercel.app) | AI-native presentation engine that turns natural-language ideas into interactive HTML presentations using structured generation, themes and reusable components |
-| [Re:Anime](https://github.com/nikhil-dex/reanime) | AI-assisted 2D animation/content production engine for creating short-form chibi animation through structured scenes, reusable assets and automated rendering |
 | [Retail Sales Analytics](https://github.com/nikhil-dex/Retail-Sales-Excel-Analytics) | Data analytics project focused on exploring retail sales data with Excel and visualization-driven analysis |
 
 ## 🧠 Practice & Learning
